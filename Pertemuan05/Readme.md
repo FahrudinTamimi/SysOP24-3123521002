@@ -7,6 +7,7 @@
 
 ![Untitled Diagram drawio1](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/a6541523-48aa-4e1a-bbb3-c128d8a6076a)
 
+
 ![Mind2 revisi](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/dd5f6ac5-dac2-4bbf-846c-1497f4c9cc7a)
 
 ## Perbedaan BIOS dan UEFI
