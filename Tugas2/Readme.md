@@ -1,6 +1,6 @@
-[Booting Process](#Booting Process)
+[BootingProcess](#Booting Process)
 
-[ Identifikasi Laptop](#Identifikasi Laptop)
+[IdentifikasiLaptop](#Identifikasi Laptop)
 
 
 
