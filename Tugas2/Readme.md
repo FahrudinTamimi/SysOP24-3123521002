@@ -1,9 +1,14 @@
+[Tugas1](#Tugas1)
+[Tugas2](#Tugas2)
+
+
+
 ## Booting Process
 
 Boot Process                                                                    
 <img width="500" alt="Screenshot 2024-03-03 150733" src="https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/c89affa8-6fcd-42b5-818a-bf59cadaeca7">
 
-Identifikasi Laptop                                                                                                             
+## Identifikasi Laptop                                                                                                       
 
 CPU
 
