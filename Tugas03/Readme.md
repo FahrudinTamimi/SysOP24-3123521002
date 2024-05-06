@@ -1,9 +1,9 @@
-[Mindmap Sejarah dan Fungsi Os](mindmap-sejarah-dan-fungsi-os)
+[Mindmap Sejarah dan Fungsi Os](#mindmap-sejarah-dan-fungsi-os)
 
-[Perbedaan BIOS dan UEFI](perbedaan-bios-dan-uefi)
+[Perbedaan BIOS dan UEFI](#perbedaan-bios-dan-uefi)
 
 
-## Mindmap Sejarah dan Fungsi Os
+## Mindmap Sejarah dan Fungsi Os 
 
 ![Untitled Diagram drawio1](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/a6541523-48aa-4e1a-bbb3-c128d8a6076a)
 
