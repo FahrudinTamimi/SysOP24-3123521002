@@ -1,6 +1,6 @@
-[BootingProcess](#Booting Process)
+[Booting Process](#booting-process)
 
-[IdentifikasiLaptop](#Identifikasi Laptop)
+[Identifikasi Laptop](#identifikasi-laptop)
 
 
 
