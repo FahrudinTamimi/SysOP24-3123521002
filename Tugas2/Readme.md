@@ -1,5 +1,6 @@
 [Booting Process](#Booting Process)
-[ Identifikasi Laptop](# Identifikasi Laptop)
+
+[ Identifikasi Laptop](#Identifikasi Laptop)
 
 
 
