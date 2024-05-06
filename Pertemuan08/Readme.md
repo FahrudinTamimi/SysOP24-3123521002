@@ -1,6 +1,6 @@
 [Perbedaan Paging dan Swapping](#perbedaan-paging-dan-swapping)
 
-[PERBEDAAN RISC DAN CISC](#perbedaan-risc-dancisc)
+[PERBEDAAN RISC DAN CISC](#perbedaan-risc-dan-cisc)
 
 [Hubungan Arsitektur CPU dengan Arsitektur OS](#hubungan-arsitektur-cpu-dengan-arsitektur-os)
 
