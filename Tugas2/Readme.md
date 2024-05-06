@@ -1,5 +1,5 @@
-[Tugas1](#Tugas1)
-[Tugas2](#Tugas2)
+[Booting Process](#Booting Process)
+[ Identifikasi Laptop](# Identifikasi Laptop)
 
 
 
