@@ -1,10 +1,10 @@
 ## Perbedaan Serial, Parallel, Concurent dan Concurent Parallel
 
-[Parallel](parallel)
+[Parallel](#parallel)
 
-[Concurrent](concurrent)
+[Concurrent](#concurrent)
 
-[Concurrent dan Parallel](concurrentdanparallel)
+[Concurrent dan Parallel](#concurrentdanparallel)
 
 ## Gambar
 
