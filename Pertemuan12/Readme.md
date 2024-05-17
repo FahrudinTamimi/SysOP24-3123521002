@@ -4,7 +4,7 @@
 
 [Concurrent](#concurrent)
 
-[Concurrent dan Parallel](#concurrentdanparallel)
+[Concurrent dan Parallel](#concurrent-dan-parallel)
 
 ## Gambar
 
