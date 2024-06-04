@@ -23,8 +23,7 @@ Untuk mengatasi masalah sinkronisasi antara keduanya, menggunakan semaphore. Sem
 
 ## Readers and Writers Problem
 
-![image](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/c9bf4f57-0628-43e3-be9f-5d8cbb310927)
-
+![image](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/c4b7097f-a374-49ee-a513-9bb445d1df74)
 
 Readers and Writers Problem adalah masalah sinkronisasi dalam komputasi paralel dan terdistribusi yang melibatkan akses bersama ke sumber daya (seperti file atau database) oleh beberapa proses atau thread.
 
