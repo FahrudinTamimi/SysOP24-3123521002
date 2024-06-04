@@ -23,6 +23,9 @@ Untuk mengatasi masalah sinkronisasi antara keduanya, menggunakan semaphore. Sem
 
 ## Readers and Writers Problem
 
+![image](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/c9bf4f57-0628-43e3-be9f-5d8cbb310927)
+
+
 Readers and Writers Problem adalah masalah sinkronisasi dalam komputasi paralel dan terdistribusi yang melibatkan akses bersama ke sumber daya (seperti file atau database) oleh beberapa proses atau thread.
 
 ## Permasalahan
@@ -42,6 +45,9 @@ Prioritas Penulis (Writers Priority):
 Penulis memiliki prioritas lebih tinggi daripada pembaca. Jika ada penulis yang ingin menulis, pembaca yang ingin membaca harus menunggu sampai penulis selesai menulis.
 
 ## Dining Philosophers Problem
+
+![image](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/e7f4874d-8115-4134-a718-10ac6403a8d0)
+
 
 Dining Philosophers Problem adalah masalah pemrograman konkuren yang mengilustrasikan beberapa tantangan dalam mengelola sumber daya terbatas (seperti chopsticks atau garpu) di antara beberapa proses (filosof).
 
