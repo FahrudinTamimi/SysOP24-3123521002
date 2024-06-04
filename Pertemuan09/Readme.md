@@ -9,6 +9,9 @@
 
 **Paging**
 
+![image](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/04f7249a-5638-4280-84cf-7032cc8ed62a)
+
+
 1. Paging adalah sebuah teknik yang digunakan oleh sistem operasi untuk membagi-bagi memori fisik menjadi blok-blok kecil yang disebut dengan "frame" dan memori logis menjadi blok-blok kecil yang disebut dengan "page".
 
 2. Dalam sistem paging, proses-proses yang sedang berjalan dipecah menjadi bagian-bagian kecil yang disebut "page". Kemudian, setiap page ini ditempatkan ke dalam frame-frame di memori fisik.
@@ -16,6 +19,9 @@
 3. Penggunaan paging memungkinkan sistem operasi untuk mengalokasikan memori secara fleksibel, memungkinkan program untuk menggunakan ruang memori yang lebih besar dari yang sebenarnya tersedia di dalam memori fisik. Hal ini juga memungkinkan sistem operasi untuk melakukan pertukaran antara bagian-bagian program yang sedang aktif dan yang sedang tidak aktif dalam memori.
 
 **Swapping**
+
+![image](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/257d1c27-dd03-4d50-b7a8-b847c4b565d6)
+
 
 1. Swapping adalah proses di mana sistem operasi dapat memindahkan seluruh proses atau bagian-bagian dari proses dari memori utama (RAM) ke ruang penyimpanan sekunder (biasanya hard disk) dan sebaliknya.
 
@@ -26,6 +32,9 @@
 Jadi, perbedaan mendasar antara paging dan swapping adalah bahwa paging adalah teknik untuk mengorganisasi memori fisik dan logis menjadi unit-unit kecil yang disebut page dan frame, sementara swapping adalah proses untuk memindahkan data antara memori utama dan penyimpanan sekunder ketika memori utama tidak mencukupi untuk menampung semua proses yang sedang berjalan.
 
 ## PERBEDAAN RISC DAN CISC
+
+![image](https://github.com/FahrudinTamimi/SysOP24-3123521002/assets/160558690/2477dc61-82ca-41d3-a6ee-a4ff7c6c3d1f)
+
 
 **RISC** (Reduced Instruction Set Computing) adalah arsitektur komputer yang memiliki instruksi yang lebih sederhana dan terbatas.
 
